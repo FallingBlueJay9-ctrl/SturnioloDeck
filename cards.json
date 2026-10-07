@@ -1,519 +1,421 @@
 {
-"1": {
-  "name": "Nick Sturniolo 1",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557124785241071676/IMG_4289.png?backend=b2&ex=6ac6a8f6&is=6ac55776&hm=2ad165bc75e626daaa596b26478c32cabff8e98eaaf065ee91d10c6052afda3c&"
-},
-
-"2": {
-  "name": "Nick Sturniolo 2",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557125160937595000/IMG_4287.png?backend=b2&ex=6ac6a950&is=6ac557d0&hm=0765a461505ae6cdb9039f7a0328ff64bc90a340b34f7f152fa24dc6907a10f7&"
-},
-
-"3": {
-  "name": "Nick Sturniolo 3",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557126310822940823/IMG_4288.png?backend=b2&ex=6ac6aa62&is=6ac558e2&hm=6a32e115cb46ae45aa994d5dc0b6ef1e2862effd13ac1eb3d13125b21237528b&"
-},
-
-"4": {
-  "name": "Nick Sturniolo 4",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557126328170315796/IMG_4290.png?backend=b2&ex=6ac6aa66&is=6ac558e6&hm=4cfe5b5ead12ab1a099a26c15ef9a1cefdb01710841d31c94c1bdd73a88658c5&"
-},
-
-"5": {
-  "name": "Nick Sturniolo 5",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557126950387187772/IMG_4291.png?backend=b2&ex=6ac6aafa&is=6ac5597a&hm=743093ee4bd1622ba83b388a728cd23d12bbe44d8c69cb242718fd8248c27d97&"
-},
-
-"6": {
-  "name": "Nick Sturniolo 6",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557126957563379722/IMG_4292.png?backend=b2&ex=6ac6aafc&is=6ac5597c&hm=1565ccbb0a0297c1273303ef6f86e2f05bff0aea9cb3c822dcd0a5a26a7a13c0&"
-},
-
-"7": {
-    "name": "Nick Sturniolo 7",
-    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557126966015172738/IMG_4293.png?backend=b2&ex=6ac6aafe&is=6ac5597e&hm=2c865a2069993742cfbfc0e1937678797a7ef37f910ddc601abbcbf357e8ecb6&"
-},
-
-"8": {
-  "name": "Nick Sturniolo 8",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557127935201116280/IMG_4317.png?backend=b2&ex=6ac6abe5&is=6ac55a65&hm=88a31f62b3a536b6f1177245aad18d28fc1428fb963295a043678f44eca3661f&"
-},
-
-"9": {
-  "name": "Nick Sturniolo 9",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557127942910255124/IMG_4318.png?backend=b2&ex=6ac6abe7&is=6ac55a67&hm=660f90b08a46aa5f2b8a93c4bba67bb5f4ff9d72baaf0a94cc0959ca17463160&"
-},
-
-"10": {
-  "name": "Nick Sturniolo 10",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557127949147308152/IMG_4319.png?backend=b2&ex=6ac6abe9&is=6ac55a69&hm=6b04dc69ca4417588555fa4f62dc846bb7a079e654e2840258ab6579359f2d52&"
-},
-
-"11": {
-  "name": "Nick Sturniolo 11",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557130658285887498/IMG_4423.png?backend=b2&ex=6ac6ae6f&is=6ac55cef&hm=67af14ccf8e681a5c7af4cc144f650d0df43c1a0e5f0bbf9854cc82572186052&"
-},
-
-"12": {
-  "name": "Nick Sturniolo 12",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557130664984182834/IMG_4425.png?backend=b2&ex=6ac6ae70&is=6ac55cf0&hm=71b9671b8794cebe222217d30fe6cc6c496efd989679c10598f870f8c0b1e50f&"
-},
-
-"13": {
-  "name": "Nick Sturniolo 13",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557130673964322838/IMG_4428.png?backend=b2&ex=6ac6ae72&is=6ac55cf2&hm=3c8ff2b78790877e30bab69a862b3f87c841b0902f307da7c9e0395d9ab5dfb3&"
-},
-
-"14": {
-  "name": "Nick Sturniolo 14",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557130682353061990/IMG_4429.png?backend=b2&ex=6ac6ae74&is=6ac55cf4&hm=f0bac708eb42cd5a8ccc4030f6b015bc1ce36461da7c5287218711562dac49f8&"
-},
-
-"15": {
-  "name": "Nick Sturniolo 15",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557130691408429167/IMG_4430.png?backend=b2&ex=6ac6ae76&is=6ac55cf6&hm=cad1d649a887eb2808793f66392704b6a086600efe8d4aa86e11b891e6fa2b2b&"
-},
-
-"16": {
-  "name": "Nick Sturniolo 16",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557130700996616223/IMG_4431.png?backend=b2&ex=6ac6ae79&is=6ac55cf9&hm=ed41fe74c25d2548b2f18543f419163ca10198102d244576fce7f3f49a0892db&"
-},
-
-"17": {
-  "name": "Nick Sturniolo 17",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557130714732961863/IMG_4432.png?backend=b2&ex=6ac6ae7c&is=6ac55cfc&hm=9da0956f2fc060ce8887611835090cd8da5e564548dd0f104bd48e7e6e3cba81&"
-},
-
-"18": {
-  "name": "Nick Sturniolo 18",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557130718751097002/IMG_4433.png?backend=b2&ex=6ac6ae7d&is=6ac55cfd&hm=0a13d984183a9fa4013c47bb3a83137cd0983c2592abe36b4ca7b3937e06ef8e&"
-},
-
-"19": {
-  "name": "Nick Sturniolo 19",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557130722337095741/IMG_4434.png?backend=b2&ex=6ac6ae7e&is=6ac55cfe&hm=911f834d98ee54db0d97c85fe6c12d636ede9b9122d7af8e97e47c6f25d563a9&"
-},
-
-"20": {
-  "name": "Nick Sturniolo 20",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557130727718522950/IMG_4435.png?backend=b2&ex=6ac6ae7f&is=6ac55cff&hm=c27cffa049e945d5521cfa21ca23177ca3839d5dd020dc252750cad7b10bfee4&"
-},
-
-"21": {
-  "name": "Nick Sturniolo 21",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557130730021199872/IMG_4436.png?backend=b2&ex=6ac6ae80&is=6ac55d00&hm=c19a05d59dc6cb6343bec95d7defac8e7e5bccf73c56b72cfbae4ce60900bbba&"
-},
-
-"22": {
-  "name": "Nick Sturniolo 22",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557130734446055479/IMG_4437.png?backend=b2&ex=6ac6ae81&is=6ac55d01&hm=5c8caa3a83940914cab3ad594906e04bee5bfdd9091f006f95c04aaf6d7e38e1&"
-},
-
-"23": {
-  "name": "Nick Sturniolo 23",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557130739135418498/IMG_4438.png?backend=b2&ex=6ac6ae82&is=6ac55d02&hm=301ba3270cbdaf79acca0a9affaf3bcbc7b431fefed83bf36690be0bafb110a9&"
-},
-
-"24": {
-  "name": "Nick Sturniolo 24",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557130742964687011/IMG_4439.png?backend=b2&ex=6ac6ae83&is=6ac55d03&hm=2c34d825ff21cf57cf4b785edd034947f859e79cafec4e7a31f2a22538fdba1d&"
-},
-
-"25": {
-  "name": "Nick Sturniolo 25",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557144003420495883/IMG_4475.png?backend=b2&ex=6ac6badc&is=6ac5695c&hm=260ee749ae364d0c08a5c02433a3d624f7ffd02edc82143b30d5b7e56f49eed9&"
-},
-
-"26": {
-  "name": "Nick Sturniolo 26",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557144019971088504/IMG_4476.png?backend=b2&ex=6ac6bae0&is=6ac56960&hm=54b593b227e3976fc2954880b76b68b2733743caf67fec36cff3efc6c85a3b9b&"
-},
-
-"27": {
-  "name": "Nick Sturniolo 27",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557144025926991983/IMG_4477.png?backend=b2&ex=6ac6bae2&is=6ac56962&hm=172ec2635e01036acc432e7cf38c0dfe84fe66bc4bc942585e1c6414ff9c586f&"
-},
-
-"28": {
-  "name": "Nick Sturniolo 28",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557144034156220486/IMG_4479.png?backend=b2&ex=6ac6bae4&is=6ac56964&hm=3e97ac05b0738b0c05e85218185e0348d49c619815deec9ddf0e2c90896a86c3&"
-},
-
-"29": {
-  "name": "Nick Sturniolo 29",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557144046663762043/IMG_4480.png?backend=b2&ex=6ac6bae7&is=6ac56967&hm=cfe1201c71dcba1ea21ee9786c070e16e97e7054a032489358903a73ebb380d0&"
-},
-
-"30": {
-  "name": "Nick Sturniolo 30",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557144056557998090/IMG_4481.png?backend=b2&ex=6ac6bae9&is=6ac56969&hm=ba7e4a8b91a2a7dbfc242ba063d540f466fc4d53d06ada2e5b6568b3b31ec9ba&"
-},
-
-"31": {
-  "name": "Nick Sturniolo 31",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557144065114640534/IMG_4482.png?backend=b2&ex=6ac6baeb&is=6ac5696b&hm=39dcd1269f1c046c87350b3567c80dbe11665d73c07cffdfe93a9676216a4ad8&"
-},
-
-"32": {
-  "name": "Nick Sturniolo 32",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557144076636135454/IMG_4483.png?backend=b2&ex=6ac6baee&is=6ac5696e&hm=1c60e7efe83bc2ca2e5a12d64b390e77cd338dc7de562c1157ba9c7b65b5121a&"
-},
-
-"33": {
-  "name": "Nick Sturniolo 33",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557144083774840832/IMG_4484.png?backend=b2&ex=6ac6baef&is=6ac5696f&hm=a2fed83b2c84a9a63ecb6b20687dceffbbb4dd3c0349e16e89f5aaeeb616e055&"
-},
-
-"34": {
-  "name": "Nick Sturniolo 34",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557144089777152000/IMG_4485.png?backend=b2&ex=6ac6baf1&is=6ac56971&hm=0728a22ec17a3a92b8dfe8cdb1d9ed482bbba1287d9be050cbbed4673d2ee696&"
-},
-
-"35": {
-  "name": "Nick Sturniolo 35",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557144100715765820/IMG_4486.png?backend=b2&ex=6ac6baf3&is=6ac56973&hm=394af658c8c0022acd24ef1d1014a7bf8d3dd8556ae55f53a307ca5781cdc787&"
-},
-
-"36": {
-  "name": "Nick Sturniolo 36",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557144104310407188/IMG_4487.png?backend=b2&ex=6ac6baf4&is=6ac56974&hm=aff545ecda1b79ca2a646069fcb84066c83d86fcc9ca0a9142247b19c69ed338&"
-},
-
-"37": {
-  "name": "Nick Sturniolo 37",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557144107351146537/IMG_4488.png?backend=b2&ex=6ac6baf5&is=6ac56975&hm=bc36cf532b682070e08489adf7f0f334bd088497e732db50cb332815abf58b88&"
-},
-
-"38": {
-  "name": "Nick Sturniolo 38",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557144114796167278/IMG_4490.png?backend=b2&ex=6ac6baf7&is=6ac56977&hm=1fe372b9c6d73f1bb605276a167426a4ccac32341fc92e1130c980cea90b8def&"
-},
-
-"39": {
-  "name": "Nick Sturniolo 39",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557144119137013951/IMG_4491.png?backend=b2&ex=6ac6baf8&is=6ac56978&hm=077159213beaedf7c6ec5d4f657d68234812a91e0c2b774131a7bf161991f774&"
-},
-
-"40": {
-  "name": "Nick Sturniolo 40",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557144122215632936/IMG_4495.png?backend=b2&ex=6ac6baf9&is=6ac56979&hm=1804cce3840e253bc0abfd78a11f69d82313173434532116bd008fbad1253b98&"
-},
-
-"41": {
-  "name": "Nick Sturniolo 41",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557144124480561163/IMG_4501.png?backend=b2&ex=6ac6baf9&is=6ac56979&hm=f15b25649677ad1755382f4567f24afa34b4c1274e6750e57e2f2dbc91d7fd72&"
-},
-
-"42": {
-  "name": "Nick Sturniolo 42",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557144128976855112/IMG_4506.png?backend=b2&ex=6ac6bafa&is=6ac5697a&hm=c017c628f1977b1ec7e663252694d95aa81f3b7daf021394622b5c570323d904&"
-},
-
-"43": {
-  "name": "Nick Sturniolo 43",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153802589577306/IMG_4532.png?backend=b2&ex=6ac6c3fd&is=6ac5727d&hm=bbe756877a188c45b9e3f54abd89303b11d35161953c0b72f8ffbdb2a085c31b&"
-},
-
-"44": {
-  "name": "Nick Sturniolo 44",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153817353519104/IMG_4533.png?backend=b2&ex=6ac6c400&is=6ac57280&hm=a579b3cec03ca567fb692e5514097fc77a8f09ac0c28fa1174c155bda13d7b6d&"
-},
-
-"45": {
-  "name": "Nick Sturniolo 45",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153820801368094/IMG_4534.png?backend=b2&ex=6ac6c401&is=6ac57281&hm=9a35269dbd61731940be59e461274bad8088fdd899ceb9c9eb958fa33200afbe&"
-},
-
-"46": {
-  "name": "Nick Sturniolo 46",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153830779490416/IMG_4536.png?backend=b2&ex=6ac6c403&is=6ac57283&hm=efecf7d286431368c0421819b4e75cf5d5f34373cf6bade58259430fc7cebeb5&"
-},
-
-"47": {
-  "name": "Nick Sturniolo 47",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153835062005800/IMG_4538.png?backend=b2&ex=6ac6c404&is=6ac57284&hm=c14535fc12cd69ee60a231d4169f2165c1ff11f330f6d8555cb245bd50364207&"
-},
-
-"48": {
-  "name": "Nick Sturniolo 48",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153839596044451/IMG_4539.png?backend=b2&ex=6ac6c405&is=6ac57285&hm=522d763631c1d25f43e78d14d4ecf2705d1074f79cb172f648b8a4e1fd1eeae3&"
-},
-
-"49": {
-  "name": "Nick Sturniolo 49",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153844096671814/IMG_4540.png?backend=b2&ex=6ac6c406&is=6ac57286&hm=18784ac6f239f45fbfb08a61a377c033a33572f91c6c5b494f8324e00661dcc3&"
-},
-
-"50": {
-  "name": "Nick Sturniolo 50",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153848223858869/IMG_4541.png?backend=b2&ex=6ac6c407&is=6ac57287&hm=3940faba4e55e2fbadae45360c760910fc36ebfdd452582bfcab15be7e0feb79&"
-},
-
-"51": {
-  "name": "Nick Sturniolo 51",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153853948952626/IMG_4542.png?backend=b2&ex=6ac6c409&is=6ac57289&hm=c314c51e93b808b1f0f659cd591c22f240a957ce6a3ecb61183835eda28f0cd7&"
-},
-
-"52": {
-  "name": "Nick Sturniolo 52",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153856876716092/IMG_4543.png?backend=b2&ex=6ac6c409&is=6ac57289&hm=44ee0f517969a8945ae91772adf0b3d636bd3fb349069f2acb0ee3d998b096fb&"
-},
-
-"53": {
-  "name": "Nick Sturniolo 53",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153861427531776/IMG_4545.png?backend=b2&ex=6ac6c40b&is=6ac5728b&hm=95588f33fa96706572084b755766b61687177a56c880a337017bd0ab0ecfcc3a&"
-},
-
-"54": {
-  "name": "Nick Sturniolo 54",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153865638486016/IMG_4546.png?backend=b2&ex=6ac6c40c&is=6ac5728c&hm=20a7730c5226dec88b04721a0125ceacde6c4f41be4ca33d2b22324f71e41bf6&"
-},
-
-"55": {
-  "name": "Nick Sturniolo 55",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153869899894824/IMG_4547.png?backend=b2&ex=6ac6c40d&is=6ac5728d&hm=ea65335fa315e9ce110de010f6651bfabf4a28d1ac595c007425be982df2aec9&"
-},
-
-"56": {
-  "name": "Nick Sturniolo 56",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153873725095958/IMG_4548.png?backend=b2&ex=6ac6c40e&is=6ac5728e&hm=a09fefb293349e1d6d232da88067e3e1b6650071c2c0b0b1b2813d9ce958f7b0&"
-},
-
-"57": {
-  "name": "Nick Sturniolo 57",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153877156036618/IMG_4549.png?backend=b2&ex=6ac6c40e&is=6ac5728e&hm=1e974138944db56d53d5ef9555c348f2f6247189bb95fd42e778d38217d5baff&"
-},
-
-"58": {
-  "name": "Nick Sturniolo 58",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153879559245864/IMG_4550.png?backend=b2&ex=6ac6c40f&is=6ac5728f&hm=9ac6c8e8fb63ff793dae83da4a0fa025d1b3a9405fce8eca2db0fe008d1b1a22&"
-},
-
-"59": {
-  "name": "Nick Sturniolo 59",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153898073030676/IMG_4551.png?backend=b2&ex=6ac6c413&is=6ac57293&hm=f92ad9cd325d6900c65ba695c25d062777a627689e8a9f164983cff59d62b7f7&"
-},
-
-"60": {
-  "name": "Nick Sturniolo 60",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153907485052978/IMG_4552.png?backend=b2&ex=6ac6c416&is=6ac57296&hm=eda444f297155d3ed6159349068f86b3e5f0829c4aba080304b022f80484f08d&"
-},
-
-"61": {
-  "name": "Nick Sturniolo 61",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153918465744987/IMG_4553.png?backend=b2&ex=6ac6c418&is=6ac57298&hm=78a21c96bf86a03f2a939208e8ad09259ca0acef5da37af2d4d2322221e9b804&"
-},
-
-"62": {
-  "name": "Nick Sturniolo 62", 
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153926778720296/IMG_4556.png?backend=b2&ex=6ac6c41a&is=6ac5729a&hm=29f02d9c3a06a63765b1143f4a6500af869627168002729193ecc7fd9b6594e2&"
-},
-
-"63": {
-  "name": "Nick Sturniolo 63",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557153977102237728/IMG_4558.png?backend=b2&ex=6ac6c426&is=6ac572a6&hm=c68dfbf8a54c0e62bda85fc482ec757209da47f35f7eb6f8301547176c08998e&"
-},
-
-"64": {
-  "name": "Nick Sturniolo 64",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154022908231710/IMG_4560.png?backend=b2&ex=6ac6c431&is=6ac572b1&hm=356f4bc267eb54c42f9262c302253bac65b95f29ce443a6c63c88b0c9d964e2d&"
-},
-
-"65": {
-  "name": "Nick Sturniolo 65",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154030768095252/IMG_4561.png?backend=b2&ex=6ac6c433&is=6ac572b3&hm=450938d53ae25a613627596aa9399899c06690696602767ecd0ce2af02aa40e8&"
-},
-
-"66": {
-  "name": "Nick Sturniolo 66",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154041094479893/IMG_4562.png?backend=b2&ex=6ac6c435&is=6ac572b5&hm=1cc46e393f32b3af385591e3332479b062e288b4de758dd6f83d19af0a9be52d&"
-},
-
-"67": {
-  "name": "Nick Sturniolo 67",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154049604849706/IMG_4563.png?backend=b2&ex=6ac6c437&is=6ac572b7&hm=3d115e742f80b4ed56d5dfd49ad4293367b036688b2d799128b32b6d8779b516&"
-},
-
-"68": {
-  "name": "Nick Sturniolo 68",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154062531690637/IMG_4564.png?backend=b2&ex=6ac6c43b&is=6ac572bb&hm=58de7b868c56822fe009e3746a5e8c87ef1e7ed972adaeb573788875d15d249a&"
-},
-
-"69": {
-  "name": "Nick Sturniolo 69",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154077073219646/IMG_4565.png?backend=b2&ex=6ac6c43e&is=6ac572be&hm=53e59c5dc065bc78a1acfb6b3de1c453a79d74a169dd3f46bec91ec147f8815f&"
-},
-
-"70": {
-  "name": "Nick Sturniolo 70",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154084379820052/IMG_4566.png?backend=b2&ex=6ac6c440&is=6ac572c0&hm=c427e8ac95aa72236d002f07452b8e7b48bf46c1badd8fadf9f2fc6e93509e50&"
-},
-
-"71": {
-  "name": "Nick Sturniolo 71",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154093686857768/IMG_4567.png?backend=b2&ex=6ac6c442&is=6ac572c2&hm=5f92469a5c186dc50923a940fdb8fe32bba491d5fcf74a254447aa4cca282d09&"
-},
-
-"72": {
-  "name": "Nick Sturniolo 72",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154101824069683/IMG_4568.png?backend=b2&ex=6ac6c444&is=6ac572c4&hm=90b6cc010a469d13a8921f7ff6729e773c3f620f9ffe36bb3656a5f91e113ba0&"
-},
-
-"73": {
-  "name": "Nick Sturniolo 73",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154103824486450/IMG_4569.png?backend=b2&ex=6ac6c444&is=6ac572c4&hm=180d58928ea3835240438c74b2c788d7e7e81e9ddb084e2a5497fc210d252166&"
-},
-
-"74": {
-  "name": "Nick Sturniolo 74",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154105657401434/IMG_4570.png?backend=b2&ex=6ac6c445&is=6ac572c5&hm=fa0bbf7659093727d9d7d061a168275facfd540148de8754cb4a06bdc4032550&"
-},
-
-"75": {
-  "name": "Nick Sturniolo 75",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154107750486116/IMG_4571.png?backend=b2&ex=6ac6c445&is=6ac572c5&hm=d7af72798295ce8f5fe92a9cfa1802bc99f41b2ff73e09e7b231a69b5231e47c&"
-},
-
-"76": {
-  "name": "Nick Sturniolo 76",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154110271393792/IMG_4572.png?backend=b2&ex=6ac6c446&is=6ac572c6&hm=f00add7127c83c887d88f3d1fa86bafc1915410cd63402b69811645692f87fff&"
-},
-
-"77": {
-  "name": "Nick Sturniolo 77",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154113530232912/IMG_4573.png?backend=b2&ex=6ac6c447&is=6ac572c7&hm=a292ebd8067d02e513c9104e80636677da10d097f0029cb82bb470e298caac7d&"
-},
-
-"78": {
-  "name": "Nick Sturniolo 78",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154116042760222/IMG_4574.png?backend=b2&ex=6ac6c447&is=6ac572c7&hm=3d4ac3cf96cd6a809fce0125be4f604ced1fe6b28b461b91989611dc3081c6ee&"
-},
-
-"79": {
-  "name": "Nick Sturniolo 79",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154121776365709/IMG_4575.png?backend=b2&ex=6ac6c449&is=6ac572c9&hm=799f9a7594700dff38e5390740c3d203dfd687ed8913aff56d5a0b6d7f4b3e3e&"
-},
-
-"80": {
-  "name": "Nick Sturniolo 80",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154127174434876/IMG_4576.png?backend=b2&ex=6ac6c44a&is=6ac572ca&hm=8d8cf9e7a93744ccbfae105332030c94cd15d449ade4cb4400b2210904b51e72&"
-},
-
-"81": {
-  "name": "Nick Sturniolo 81",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154131926581371/IMG_4577.png?backend=b2&ex=6ac6c44b&is=6ac572cb&hm=7890d18f559684cb0cd0120343b339a84080f95df7a77e47101f809f264be318&"
-},
-
-"82": {
-  "name": "Nick Sturniolo 82",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154134174601318/IMG_4578.png?backend=b2&ex=6ac6c44c&is=6ac572cc&hm=15171890278469837e578a9eeaab586ca48e7b582d6cc9746ac1c29f53d62eb8&"
-},
-
-"83": {
-  "name": "Nick Sturniolo 83",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154156656201749/IMG_4579.png?backend=b2&ex=6ac6c451&is=6ac572d1&hm=9a96f13660fd33af1f99d3986064afd89feb15ce89e2ccb99ff23386353c5f57&"
-},
-
-"84": {
-  "name": "Nick Sturniolo 84",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154166462484591/IMG_4580.png?backend=b2&ex=6ac6c453&is=6ac572d3&hm=b869e4fa6b13a51b762b78e6d72ca14c809aad662809be3c55c3964e5fb19a30&"
-},
-
-"85": {
-  "name": "Nick Sturniolo 85",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154174087725096/IMG_4581.png?backend=b2&ex=6ac6c455&is=6ac572d5&hm=115c337e78dbfd5d07546e513cc6741cd2014a934402ad897015ea55ddb16081&"
-},
-
-"86": {
-  "name": "Nick Sturniolo 86",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154180412735560/IMG_4582.png?backend=b2&ex=6ac6c457&is=6ac572d7&hm=967d7dc2f201380f31c0d9cd5c3cacc244575820b3b87b3158a875ff5a8a5884&"
-},
-
-"87": {
-  "name": "Nick Sturniolo 87",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154193092120626/IMG_4583.png?backend=b2&ex=6ac6c45a&is=6ac572da&hm=143dfbc3a55e9d45d0df5db4b264b4f84f0c6568c48c98b5b1fb9349d31b6eaf&"
-},
-
-"88": {
-  "name": "Nick Sturniolo 88",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154200050343996/IMG_4584.png?backend=b2&ex=6ac6c45b&is=6ac572db&hm=fb021e816a3e47245006b23b0d9a7c9dffa23bfa0d1e2c107db8cb6b657a59e0&"
-},
-
-"89": {
-  "name": "Nick Sturniolo 89",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154210439499817/IMG_4586.png?backend=b2&ex=6ac6c45e&is=6ac572de&hm=aef67d24b1ef837662b6a5f479b52c8d268193fe96d219ace2592f010773edc8&"
-},
-
-"90": {
-  "name": "Nick Sturniolo 90",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154217045528656/IMG_4587.png?backend=b2&ex=6ac6c45f&is=6ac572df&hm=2452ae2f98bf11b547f9a7110d7ef9ca928648cf6fc852f4117ba10baa84cc63&"
-},
-
-"91": {
-  "name": "Nick Sturniolo 91",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154228294787162/IMG_4588.png?backend=b2&ex=6ac6c462&is=6ac572e2&hm=2cc8d64b0578454a662efdacad14c15ce82fd144b078223604bdd552e1f5196e&"
-},
-
-"92": {
-  "name": "Nick Sturniolo 92",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154239984435320/IMG_4589.png?backend=b2&ex=6ac6c465&is=6ac572e5&hm=a51c3d5d71fc0a1951ea5d115920ec31c08e46e3aca44058b3856f879a9db268&"
-},
-
-"93": {
-  "name": "Nick Sturniolo 93",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154256895606944/IMG_4590.png?backend=b2&ex=6ac6c469&is=6ac572e9&hm=53400e3f7424de2e4621707c917266f2ee87dd6f234df1d939b40b9fba766a61&}"
-},
-
-"94": {
-  "name": "Nick Sturniolo 94",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154265900908687/IMG_4591.png?backend=b2&ex=6ac6c46b&is=6ac572eb&hm=5a5ff765af7092ad7149fe2b45933dc0e8e20e0e100d659ec966bfd2580f8538&"
-},
-
-"95": {
-  "name": "Nick Sturniolo 95",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154270619508857/IMG_4592.png?backend=b2&ex=6ac6c46c&is=6ac572ec&hm=232e85cd5199c38e3c26a23bb10fd3cbc5b81b2b1d763eb0834eee515fe6c818&"
-},
-
-"96": {
-  "name": "Nick Sturniolo 96",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154275828961380/IMG_4593.png?backend=b2&ex=6ac6c46d&is=6ac572ed&hm=c6480dcb4e0543d8d27626b43fd05a415088f01be92a1c7d948d607d5dc8c60d&"
-},
-
-"97": {
-  "name": "Nick Sturniolo 97",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154278836015134/IMG_4594.png?backend=b2&ex=6ac6c46e&is=6ac572ee&hm=ae8fe2ce7fb79576e43ebe21f8c22f1bbb232d22dbb3558da3bc5f75541a8b63&"
-},
-
-"98": {
-  "name": "Nick Sturniolo 98",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154282682191952/IMG_4596.png?backend=b2&ex=6ac6c46f&is=6ac572ef&hm=c034efae72ec8055f1836ef8d8c05b28bb1e7cc4fbd77b9b2d7f8ae758cf9759&"
-},
-
-"99": {
-  "name": "Nick Sturniolo 99",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154287040208946/IMG_4598.png?backend=b2&ex=6ac6c470&is=6ac572f0&hm=c302b973065cccd4af6e422f822f2dc01ff7ca05b9f9b0c328a565c653c79e6f&"
-},
-
-"100": {
-  "name": "Nick Sturniolo 100",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154290651627550/IMG_4601.png?backend=b2&ex=6ac6c471&is=6ac572f1&hm=b6f4e0ee5be818960724868bbf2b386d15a236030110bcf5f0a5473a6cb4d554&"
-},
-
-"101": {
-  "name": "Nick Sturniolo 101",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154304627052614/IMG_4603.png?backend=b2&ex=6ac6c474&is=6ac572f4&hm=650cc1437e79eab867fb4e36149d053396f8a391e9e2c2781328bda0a7ee755c&"
-},
-
-"102": {
-  "name": "Nick Sturniolo 102",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154306619215942/IMG_4604.png?backend=b2&ex=6ac6c475&is=6ac572f5&hm=97551004df9bcf1b87800f878501402d30cbb4ab629a9d2423db85beefce742c&"
-},
-
-"103": {
-  "name": "Nick Sturniolo 103",
-  "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557154331281719446/IMG_4605.png?backend=b2&ex=6ac6c47b&is=6ac572fb&hm=2fe38a27cdae4a090a002beb613e7b334ce4b215d9f7043f8efa617689e69224&"
-},
-
+  "1": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557452209938104370/IMG_4289.png?backend=b2&ex=6ac7d9e6&is=6ac68866&hm=507eb40e6c0dbb6ecc23051feec367edfae438e7711817a3ba05d7508a235005&"
+  },
+  "2": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557452229122727946/IMG_4287.png?backend=b2&ex=6ac7d9eb&is=6ac6886b&hm=7660f6cb977910679b914f8a447c4e95e68360a9eed619d536af05b1589f22bd&"
+  },
+  "3": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557452233811959848/IMG_4288.png?backend=b2&ex=6ac7d9ec&is=6ac6886c&hm=b3332dcd68b4a96b4d53866eb470527cd4c217d547bb46f5d3dcd40e546d6be4&"
+  },
+  "4": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557452244343857152/IMG_4290.png?backend=b2&ex=6ac7d9ef&is=6ac6886f&hm=e9b59f09cea3da90e4500095cf078ebfe301373dd8ed37473db4bd7844ca73ae&"
+  },
+  "5": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557452252355108955/IMG_4291.png?backend=b2&ex=6ac7d9f1&is=6ac68871&hm=dd1d748d4b08f6a3a8be88b4123e3a200817d550d5023ee8aeec137a13e6387a&"
+  },
+  "6": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557453057204166749/IMG_4292.png?backend=b2&ex=6ac7dab0&is=6ac68930&hm=25e28d816e7e3fa56d2eaaa0ddda6e1fe0ec2b8ef49048bec0992081f37f8f0a&"
+  },
+  "7": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557453063785283594/IMG_4293.png?backend=b2&ex=6ac7dab2&is=6ac68932&hm=f051bcb08cd36b18c880e0a39e6e1ac7d7f5f1ef1733709cef9a7067d143c200"
+  },
+  "8": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557452282533122058/IMG_4317.png?backend=b2&ex=6ac7d9f8&is=6ac68878&hm=5bd456ebf9687b838bcc609e6310697466504e81706c05b0b6457a9bc7217bd1&"
+  },
+  "9": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557452290527330334/IMG_4318.png?backend=b2&ex=6ac7d9fa&is=6ac6887a&hm=1c7839cfef0fa657d842548d1c65e44d5619d260907a0dc20672ea2b20646f47&"
+  },
+  "10": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557452297515311224/IMG_4319.png?backend=b2&ex=6ac7d9fb&is=6ac6887b&hm=ad90825b1fd22db0852e78213dfdb5f075181a82c4741171685352ea6955639f&"
+  },
+  "11": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557453427469058218/IMG_4423.png?backend=b2&ex=6ac7db09&is=6ac68989&hm=8fbc0e4ad3a3a76e1300095cf078ebfe828ab937f8b20c404e48bf6c15ee7b2e1&"
+  },
+  "12": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557453512592465991/IMG_4425.png?backend=b2&ex=6ac7db1d&is=6ac6899d&hm=c2e821e85e469eddfce181dc296def316d21483259daa931a29848ad3b911dea&"
+  },
+  "13": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557453522935484436/IMG_4428.png?backend=b2&ex=6ac7db1f&is=6ac6899f&hm=1097a140d8b07074a189ec26fc851e0969fafe03282657d0420ade8cf60d8cc7&"
+  },
+  "14": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557453531315708045/IMG_4429.png?backend=b2&ex=6ac7db21&is=6ac689a1&hm=12c707839bf7ef5f0926906c1c453af814155179dcbf63b48a4b73eaeb0734f2&"
+  },
+  "15": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557453538303672360/IMG_4430.png?backend=b2&ex=6ac7db23&is=6ac689a3&hm=060d1115517e0d7ef038af839b13c5742cb12b7bd6655d266814d6ce2eb07e00&"
+  },
+  "16": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557453545312358400/IMG_4431.png?backend=b2&ex=6ac7db25&is=6ac689a5&hm=05239b9b9789055914e62ba6c2c6ffdfc95f0d65580170a1bdb004e398e6d61&"
+  },
+  "17": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557453554992685217/IMG_4432.png?backend=b2&ex=6ac7db27&is=6ac689a7&hm=5a38d14df40be7dd2595eaea8a38c25d50d1bb1cc1ed19e0556ca377170234f5&"
+  },
+  "18": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557453565235175435/IMG_4433.png?backend=b2&ex=6ac7db2a&is=6ac689aa&hm=d3404d27f0cc30d31b48dcfe99e732f23e934ea0aa2642565a63c62ff10241dc&"
+  },
+  "19": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557453570457079990/IMG_4434.png?backend=b2&ex=6ac7db2b&is=6ac689ab&hm=fe66c5dd40f4ed9ded31512af7644d09f2d97d4f3d8790050eb3d2eda899afb1&"
+  },
+  "20": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557453576014659634/IMG_4435.png?backend=b2&ex=6ac7db2c&is=6ac689ac&hm=9abd6d8bf6a83e7d482b3b6503d4ddd19bbd290dbb0e4008b2be40d01e817b57&"
+  },
+  "21": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557453580234129549/IMG_4436.png?backend=b2&ex=6ac7db2d&is=6ac689ad&hm=4f57fbe2eee1b7a39489e593186bfc449b2db36a21507590df8e11b52794eb7d&"
+  },
+  "22": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557453584948269076/IMG_4437.png?backend=b2&ex=6ac7db2e&is=6ac689ae&hm=eb6671ab34ec89bbc583d4cec8c1e0b92ff625bda795c76d7230965e35aceef2&"
+  },
+  "23": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557453587200610364/IMG_4438.png?backend=b2&ex=6ac7d9f8&is=6ac68878&hm=36c764da85651b99a3d132aecb1b4c4eb4b0381cb50204ea3ab0f76f3be1e29b&"
+  },
+  "24": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557453589629239326/IMG_4439.png?backend=b2&ex=6ac7d9f8&is=6ac68878&hm=fb65d61dee6d9bee8e2ad08dbab7b249a61ba34a0954710ba5dc1d73cf2bc73e&"
+  },
+  "25": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454517535121509/IMG_4475.png?backend=b2&ex=6ac7dc0d&is=6ac68a8d&hm=fcf01faf8994d94458bdfbf7b43142c5f25dd993654cc90c58ef22939378acb8&"
+  },
+  "26": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454528138321960/IMG_4476.png?backend=b2&ex=6ac7dc0f&is=6ac68a8f&hm=60da3afaa9d546db67b3c74aba9e04fea4fae13310eff3d8ca1582c3756e2abb&"
+  },
+  "27": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454543099535360/IMG_4477.png?backend=b2&ex=6ac7dc13&is=6ac68a93&hm=e0755c943ad202a8149509e466af36d5a2080227fefc37504298eb70755d2885&"
+  },
+  "28": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454553333628968/IMG_4479.png?backend=b2&ex=6ac7dc15&is=6ac68a95&hm=1bd1d3c4d8fbbfdcc836d654b08ebcc5d2b24717614966855443c202e5897fd8&"
+  },
+  "29": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454556151943198/IMG_4480.png?backend=b2&ex=6ac7dc16&is=6ac68a96&hm=2a2f018348bd8dc68165ea46c8d60e0766edbab72b86b48b2010e7092f8d7624&"
+  },
+  "30": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454560505765898/IMG_4481.png?backend=b2&ex=6ac7dc17&is=6ac68a97&hm=3e6306329f3025e65c32fe8f5e30132a545ac730ba111af9641a7a31e178205e&"
+  },
+  "31": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454570802651206/IMG_4482.png?backend=b2&ex=6ac7dc19&is=6ac68a99&hm=ab9caeeffa12d918727e764b0737badbdf85f8acecf32d8203a6013822803783&"
+  },
+  "32": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454575634485329/IMG_4483.png?backend=b2&ex=6ac7dc1a&is=6ac68a9a&hm=3887b80f35446119228aa542ee922e8c0034d6df0bb57522d7fa65a4a1e50043&"
+  },
+  "33": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454577794687156/IMG_4484.png?backend=b2&ex=6ac7dc1b&is=6ac68a9b&hm=23aa865b2eabc5c3e651a824a842dfdc0d96401f51978a4d7c476fc76f0858a6&"
+  },
+  "34": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454580428709940/IMG_4485.png?backend=b2&ex=6ac7dc1c&is=6ac68a9c&hm=135bce1cfddf6c43b841a8ade7cab2b56a9efb85c2d693982d000765694a17a0&"
+  },
+  "35": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454584929325167/IMG_4486.png?backend=b2&ex=6ac7dc1d&is=6ac68a9d&hm=c0c448b86c1d9bd0ae07374f7706d1f64fd64b94aa46647162bfd54060daa039&"
+  },
+  "36": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454592378151053/IMG_4487.png?backend=b2&ex=6ac7dc1e&is=6ac68a9e&hm=d4934233667efb752c26de71be3c280048cd18cc92d094966aeff09cab107044&"
+  },
+  "37": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454607138037961/IMG_4488.png?backend=b2&ex=6ac7dc22&is=6ac68aa2&hm=de54feccd2c8bead908d5a89c56b1f8908c47a858aa7fa1f367d7263082fe9c9&"
+  },
+  "38": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454611588194444/IMG_4489.png?backend=b2&ex=6ac7dc23&is=6ac68aa3&hm=70da943fb9efe593358d7c28ad5cf2c091e3739412027960d2cdd61b252b395f&"
+  },
+  "39": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454625735446589/IMG_4490.png?backend=b2&ex=6ac7dc26&is=6ac68aa6&hm=efe0239923eed814b1a4d31ea6e2d0493eecff647dc07a0dc80af007c39a1a4a&"
+  },
+  "40": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454633562280126/IMG_4491.png?backend=b2&ex=6ac7dc28&is=6ac68aa8&hm=ee35e1c18187d111cf3e7147eb480c36b1d8a4c5d2e8e7633eef3a9047334bdf&"
+  },
+  "41": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454640310779925/IMG_4495.png?backend=b2&ex=6ac7dc2a&is=6ac68aaa&hm=444226092c1b752938a762bae7d646cdcd3f27fd794cd4149686af0d25272242&"
+  },
+  "42": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454651106918511/IMG_4501.png?backend=b2&ex=6ac7dc2c&is=6ac68aac&hm=7578f81892b21303594da5141985bd2e58b0ca89fc526c28eab3ed0000eedbe5&"
+  },
+  "43": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454653959049246/IMG_4506.png?backend=b2&ex=6ac7dc2d&is=6ac68aad&hm=50a769953cdc93aa9298a9ac601a4cd8fbb3c0f8a78dac592e4dc823edf51abb&"
+  },
+  "44": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454657595514994/IMG_4532.png?backend=b2&ex=6ac7dc2e&is=6ac68aae&hm=dac7fd379f71a51736ce1ca4a30cec4fde47333cde19e74fed072990c6b68c6d&"
+  },
+  "45": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454661198417981/IMG_4533.png?backend=b2&ex=6ac7dc2f&is=6ac68aaf&hm=39771a805312364a82c0353f3cf37c5cc058648cb7db8b2890023f9f7932db9c&"
+  },
+  "46": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454667188019241/IMG_4534.png?backend=b2&ex=6ac7dc30&is=6ac68ab0&hm=34f351e548c0c34f1530bff1f8f6f9667bd5ca5746aae8cd1445ad36b031bf34&"
+  },
+  "47": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454671340245122/IMG_4536.png?backend=b2&ex=6ac7dc31&is=6ac68ab1&hm=44b1ea9c5d5639466cd607be4b747f58bf71da9ecefe6359301c7bb3baa2fe97&"
+  },
+  "48": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454674913787934/IMG_4538.png?backend=b2&ex=6ac7dc32&is=6ac68ab2&hm=7e145d72f6b33cd090ddb03436dc4d99a3a928745d7d3650a8e5b9812b38ffa8&"
+  },
+  "49": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454688356667442/IMG_4539.png?backend=b2&ex=6ac7dc35&is=6ac68ab5&hm=7c23950898f57b3c72fec93228ffa6560d5a708f72d1044e01d76ae2d1f34843&"
+  },
+  "50": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454691728888000/IMG_4540.png?backend=b2&ex=6ac7dc36&is=6ac68ab6&hm=3cf7b4cacfff2d9ca278d256d305282f33c3546fc04bd3fbc8a32fe3e4920c4f&"
+  },
+  "51": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454695390515311/IMG_4541.png?backend=b2&ex=6ac7dc37&is=6ac68ab7&hm=c08e6da20ad46c507591d886033bf23bd7b2c71856562dee09998bdd3fcd1e19&"
+  },
+  "52": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454698502422624/IMG_4542.png?backend=b2&ex=6ac7dc38&is=6ac6899f&hm=e9e4ebe84aa253b272f36db5d2625ec44ef9844765d541654a0fa231b658a2b1&"
+  },
+  "53": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454702269173820/IMG_4543.png?backend=b2&ex=6ac7dc39&is=6ac68ab9&hm=5e6eed5e98c11d03adeb21ae93434c7709442dd146c65c17ba69ff47dfcc4236&"
+  },
+  "54": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557454709554548808/IMG_4545.png?backend=b2&ex=6ac7dc3a&is=6ac68aba&hm=dcc02e6ffacd55fe6c249a4eab4c3b375e13600d4d65a684037d74fbfeb11aac&"
+  },
+  "55": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557456642419990548/IMG_4546.png?backend=b2&ex=6ac7de07&is=6ac68c87&hm=d2a1f7c0133b876c847098338d54c1487944c2e051a5848b529cd116f7ec465b&"
+  },
+  "56": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557456656411918397/IMG_4547.png?backend=b2&ex=6ac7de0b&is=6ac68c8b&hm=b5f43cda146f0320d79b49e975bb44b916fbc526451b108d26ab0486965298e2&"
+  },
+  "57": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557456659754909716/IMG_4548.png?backend=b2&ex=6ac7de0b&is=6ac68c8b&hm=1ca9bc0b3178bd471a62f3c48c4b1b8cc455c12a49529d88123f66bb4adffbfc&"
+  },
+  "58": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557456667996848169/IMG_4549.png?backend=b2&ex=6ac7de0d&is=6ac68c8d&hm=9ab7872fc1e14607be7a03022ea6442af121782d3b6658c5e5e0dcf6100cc2b7&"
+  },
+  "59": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557456853296750603/IMG_4550.png?backend=b2&ex=6ac7de39&is=6ac68cb9&hm=45daacc88f6270f1ef90770cf7cdc067cb120f36c7b30700a615fbcab07cabcc&"
+  },
+  "60": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557456866290827274/IMG_4551.png?backend=b2&ex=6ac7de3d&is=6ac68cbd&hm=9d4ee441e1b55c94d86e347ef70fa1577a86f553dabeabc06be7f9ae0d0cda50&"
+  },
+  "61": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557456872410452088/IMG_4552.png?backend=b2&ex=6ac7de3e&is=6ac68cbe&hm=2e57d767497e3487a99f46e474dc052455e3e4254394af51c0aaac530de6d944&"
+  },
+  "62": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557456879179796591/IMG_4553.png?backend=b2&ex=6ac7de40&is=6ac68cc0&hm=84db18664bc9741d25ff6b083eb23ff54eb584bbe0a14a56ef151d3202f8ee41&"
+  },
+  "63": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557456884552700006/IMG_4556.png?backend=b2&ex=6ac7de41&is=6ac68cc1&hm=bdb78fd34847d7fd3096e20aeb1acb5c2200006e334304e30aa5fc1e440aa28a&"
+  },
+  "64": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557456889456107590/IMG_4558.png?backend=b2&ex=6ac7de42&is=6ac68cc2&hm=8f22cbfe83085c703d1603943146097b066a0ae19d6217ee08463c05dd52bae2&"
+  },
+  "65": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557456893536899163/IMG_4560.png?backend=b2&ex=6ac7de43&is=6ac68cc3&hm=8ddbb855df12ffe4b8e3b8d530cb337d130aeb71678c6ad5b6afc202520cb8d9&"
+  },
+  "66": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557456897093804132/IMG_4561.png?backend=b2&ex=6ac7de44&is=6ac68cc4&hm=2332a91925e5a3624590563850cb4de3004faa53dd33ea81ad7f282370c7a9a5&"
+  },
+  "67": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557456902223298741/IMG_4562.png?backend=b2&ex=6ac7de45&is=6ac68cc5&hm=54e11314c505495b94f408b06163b139ea3a99471c77b6e18a8dcb37b7140161&"
+  },
+  "68": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557456916354043935/IMG_4563.png?backend=b2&ex=6ac7de49&is=6ac68cc9&hm=362d06261ce328d850cde7fc0a138fab88251c1561c96b7897c98c1aeadea9a8&"
+  },
+  "69": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557456918732087338/IMG_4564.png?backend=b2&ex=6ac7de49&is=6ac68cc9&hm=9c2a64c7f52dcfd7aed8d186c9d9db526c68ebe4e1073bc5218eec3c87561c3b&"
+  },
+  "70": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557456922037461103/IMG_4565.png?backend=b2&ex=6ac7de4a&is=6ac68cca&hm=b8e1f0c377f6ee5fb91ddec5ccb2413e5cc88834b668482f1e6d87eb43422752&"
+  },
+  "71": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557456923790540931/IMG_4566.png?backend=b2&ex=6ac7de4a&is=6ac68cca&hm=a74fdae385972bd3d09279a09d05aaab21da00b88e2607d3ec7f71df6a08e211&"
+  },
+  "72": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557456927330410666/IMG_4567.png?backend=b2&ex=6ac7de4b&is=6ac68ccb&hm=b7f2120e6fcefece89131b8b8c6b1e44bd1a45dd758b62e9213393d8da9c182f&"
+  },
+  "73": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557457524582518895/IMG_4568.png?backend=b2&ex=6ac7deda&is=6ac68d5a&hm=4efde750a0dacce2a36b22791b25fccb7857fbb0116581e1a7d6560202a0194b&"
+  },
+  "74": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557457538679705610/IMG_4569.png?backend=b2&ex=6ac7dedd&is=6ac68d5d&hm=2f6f116888f459e18d89e92523f6b4fd38e5db22180eaeacd20fa50713b37ddf&"
+  },
+  "75": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557457546271526962/IMG_4570.png?backend=b2&ex=6ac7dedf&is=6ac68d5f&hm=a0f866dd13f103078e7c7ef302df909a45b359233ed0c091aa83df6&"
+  },
+  "76": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557457554542694551/IMG_4571.png?backend=b2&ex=6ac7dee1&is=6ac68d61&hm=4f19c02c20c10b2644070a1b7f306dd5f34785f980c7dd03301a6766b97367ae&"
+  },
+  "77": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557457560557195324/IMG_4572.png?backend=b2&ex=6ac7dee2&is=6ac68d62&hm=9bdd3e1a455cf8f1e5c5d6f5ed356fbae8b7204740dfafb71840957f3afa6c4c&"
+  },
+  "78": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557457572104118352/IMG_4573.png?backend=b2&ex=6ac7dee5&is=6ac68d65&hm=706b23ff782167d5b8766ae212e722f451cbb9de8f9951a3269624be19b2990a&"
+  },
+  "79": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557457576147423404/IMG_4574.png?backend=b2&ex=6ac7dee6&is=6ac68d66&hm=fd18fd5aa1153507c5f3c725c9de369a93937fe3c69dedb1374ed71e462b8388&"
+  },
+  "80": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557457579482026004/IMG_4575.png?backend=b2&ex=6ac7dee7&is=6ac68d67&hm=b05939c44b2c65c55480c0ec954d5d4b2ae8cdd800194fd2a4ff38f6b09f12d9&"
+  },
+  "81": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557457582820561009/IMG_4576.png?backend=b2&ex=6ac7dee7&is=6ac68d67&hm=9f987276dc6a52d3e34d9b29eda8f8917ebe8511ac3f4eba68c17b3d6d1e0b0e&"
+  },
+  "82": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557457586712870922/IMG_4577.png?backend=b2&ex=6ac7dee8&is=6ac68d68&hm=91b30ea2dc88f83bd9c3c0111f1580a450ad913c7e31ced03bb8586dd56d0f66&"
+  },
+  "83": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557457590315909150/IMG_4578.png?backend=b2&ex=6ac7dee9&is=6ac68d69&hm=66012e4f9040de2f433ac2a15e1fd6c35bee17de4101a629726d315e1e89f916&"
+  },
+  "84": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557457594032066740/IMG_4579.png?backend=b2&ex=6ac7deea&is=6ac68d6a&hm=2aeff25ad0c6039942de0bba08e9d490a70196b9ec7ce59a9403ea9f49adccc3&"
+  },
+  "85": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557457596385067108/IMG_4580.png?backend=b2&ex=6ac7deeb&is=6ac68d6b&hm=464be19a7b643ff4e1af657c0541f6953c8cafd4456af0a322e21e743e1a2c68&"
+  },
+  "86": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557457599014768710/IMG_4581.png?backend=b2&ex=6ac7deeb&is=6ac68d6b&hm=1b555cd43e557c93f8b443b39fd27419e6ea74e5107431b8f5363d1493d8c1d2&"
+  },
+  "87": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557457601543807046/IMG_4582.png?backend=b2&ex=6ac7deec&is=6ac68d6c&hm=817a22a3137d445147e8a0135a0c27d377b2151831eee932ea976ae566b90781&"
+  },
+  "88": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557457620745588907/IMG_4583.png?backend=b2&ex=6ac7def0&is=6ac68d70&hm=2b02a7120a32d815f0b67fe16735ab72e5ea8fa51741eb0969ffacf0f7644f95&"
+  },
+  "89": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557459838429175918/IMG_4584.png?backend=b2&ex=6ac7e101&is=6ac68f81&hm=589285b145beb5bd1033890d085a3ceb195ed5ffb380172f2a9d9b6f0522f8f2&"
+  },
+  "90": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557459842527133696/IMG_4586.png?backend=b2&ex=6ac7e102&is=6ac68f82&hm=5fe402eaddb11b8b1d01c6ab20ad1a61f75f7c2e544ec0c331f0f41ffeb429f1&"
+  },
+  "91": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557459845509288046/IMG_4587.png?backend=b2&ex=6ac7e103&is=6ac68f83&hm=fb781bfbd8c057a3bf503def107f90ad44497b657a047c249a616e7d7aed206e&"
+  },
+  "92": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557459851381047449/IMG_4588.png?backend=b2&ex=6ac7e104&is=6ac68f84&hm=8c9da01806719401a2c36add99730831686f48123068e18689729c079ba5094c&"
+  },
+  "93": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557459856598769826/IMG_4589.png?backend=b2&ex=6ac7e106&is=6ac68f86&hm=904544f7cdd86a1b82d18db85f1152595b63ac6e986b1eac934630ec4c7384cc&"
+  },
+  "94": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557459860117782689/IMG_4590.png?backend=b2&ex=6ac7e106&is=6ac68f86&hm=b39f3a6205245b34ba9a74e288c04e8c51a3c439cf4233015d350408a24c5365&"
+  },
+  "95": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557459863779549194/IMG_4591.png?backend=b2&ex=6ac7e107&is=6ac68a87&hm=3152f1377a3b2b61c554c3260a20e82e123eaaadd0ca40511096bc31878431ef&"
+  },
+  "96": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557459867361353780/IMG_4592.png?backend=b2&ex=6ac7e108&is=6ac68a88&hm=d8fab76609e5752f8bfc0d8d4ca2402924150867b3244ff4b2e9d88fdf21bd2f&"
+  },
+  "97": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557459872461750313/IMG_4593.png?backend=b2&ex=6ac7e109&is=6ac68a89&hm=59f0a4c09bd62125de6369c96a5927af1306ee1646b5546e8a97e22cb6f1ce7b&"
+  },
+  "98": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557459875993231450/IMG_4594.png?backend=b2&ex=6ac7e10a&is=6ac68a8a&hm=c17bf768bb7e68732d5889276dcbcbbe43b0c9d586949236a417fa10de08fe73&"
+  },
+  "99": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557459879562580139/IMG_4596.png?backend=b2&ex=6ac7e10b&is=6ac68a8b&hm=28c22f6978a84b82e536a8c93d1dde04b8ff39c8adae3703199cca7e0e957923&"
+  },
+  "100": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557459882184282274/IMG_4598.png?backend=b2&ex=6ac7e10c&is=6ac68a8c&hm=a544227c634eda8307d718babd5d427e694130df9283921cc1a674049bd66146&"
+  },
+  "101": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557459900165267456/IMG_4601.png?backend=b2&ex=6ac7e110&is=6ac68f90&hm=2e84a3f8fc3e6a0a6fac85dd321062c74c8d5b323ebac992db378982925554dc&"
+  },
+  "102": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557459910353100813/IMG_4603.png?backend=b2&ex=6ac7e112&is=6ac68f92&hm=03f05282fa89155794a9cd1742ce0f69fa16d09de271b8a81d40ce61b595e46a&"
+  },
+  "103": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557459918397906944/IMG_4604.png?backend=b2&ex=6ac7e114&is=6ac68f94&hm=e389a7962f92c1c883693648e4988939d55c6787a21d00f9ae4a1c3c7243a31d&"
+  },
+  "104": {
+    "name": "Nick Sturniolo",
+    "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557459927361126400/IMG_4605.png?backend=b2&ex=6ac7e116&is=6ac68f96&hm=603e39db0d65ffacc7a8b1e82137662d2bf7e831c7531fffb49d4f5379f3de69&"
+    },
+    
 "104": {
   "name": "Matt Sturniolo 1",
   "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557199408687480934/IMG_4299.png?backend=b2&ex=6ac6ee76&is=6ac59cf6&hm=9b81ad8465039776486cfadde92355fce30693b74a5c51fbce42a8d7355cc1b5&"

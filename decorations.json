@@ -4,176 +4,353 @@
       "id": 1,
       "card": 1,
       "name": "Nick Sturniolo 1",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557557933183864922/IMG_4352.png?ex=6ac83c5d&is=6ac6eadd&hm=add5ff487d821c46d34e62fb25f726cb9f2d92ee1dbce1fcdfe5f527dad083fc&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557728297645777016/IMG_4352.png?ex=6ac8db07&is=6ac78987&hm=002af8ef8a1d07fa2b370e45079d00f8ed107cce152cb20ceec1047cb127145c&",
       "price": 300
     },
     {
       "id": 2,
       "card": 2,
       "name": "Nick Sturniolo 2",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557557942465597450/IMG_4353.png?ex=6ac83c5f&is=6ac6eadf&hm=b601e05d89f9c0e20c309a8affeb40f6687ad5ce1446d3c7591078083f09f48a&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557728419767263242/IMG_4353.png?ex=6ac8db24&is=6ac789a4&hm=2d0b90a99e7080e46d4bd29f9b1f586cf92567c8daf1952ed651db128c61ecb9&",
       "price": 300
     },
     {
       "id": 3,
       "card": 3,
       "name": "Nick Sturniolo 3",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557557950048903268/IMG_4354.png?ex=6ac83c61&is=6ac6eae1&hm=f152195ad82b3585f1c374b57d9f703e85fa56d059829a18b69a95dde521fa19&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557728547227828244/IMG_4354.png?ex=6ac8db42&is=6ac789c2&hm=b48da27fb61dd7684205da71fd72ac9a71c40b0a198d703a819512c40e3f008d&",
       "price": 300
     },
     {
       "id": 4,
       "card": 4,
       "name": "Nick Sturniolo 4",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557557958639099924/IMG_4355.png?ex=6ac83c63&is=6ac6eae3&hm=022f22d9e58485126411eee43b16ef4e072849eb9998ae107c3b3e81580b3f7e&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557728659975053392/IMG_4355.png?ex=6ac8db5d&is=6ac789dd&hm=8164db60be088db1eb7df7dec00a986efb5508905fd845e530747814ef6026c8&",
       "price": 300
     },
     {
       "id": 5,
       "card": 5,
       "name": "Nick Sturniolo 5",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557557966260015206/IMG_4356.png?ex=6ac83c65&is=6ac6eae5&hm=0f245c1527421e03b1416cda4b5f086adbfebfa18d8d4ce1703f66a33e712559&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557728697027399751/IMG_4356.png?ex=6ac8db66&is=6ac789e6&hm=abe6ded40fe95908e01264d7e7b0e6e5f1ee528d73b2cbb9c9eb32a344de8936&",
       "price": 300
     },
     {
       "id": 6,
       "card": 6,
       "name": "Nick Sturniolo 6",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557557973176418304/IMG_4357.png?ex=6ac83c66&is=6ac6eae6&hm=a3db3c44788cb123581831146423dac10bae0c2b747f6fb64185b8fd737ef04a&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557728833715572746/IMG_4357.png?ex=6ac8db87&is=6ac78a07&hm=d4ebc1caeffd87f6040c4777ce669716169017c04fc9fafafed58229c76c343b&",
       "price": 300
     },
     {
       "id": 7,
       "card": 7,
       "name": "Nick Sturniolo 7",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557557980306870433/IMG_4358.png?ex=6ac83c68&is=6ac6eae8&hm=321e22c2c20c769b571ee7564e6ec8c2cb30b6d251ed6a929d13a9118939e8a7&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557728876161933322/IMG_4358.png?ex=6ac8db91&is=6ac78a11&hm=3824fb13d4d129b6dc9c74f8f531b83c391b7f557137d826f1edae3d9b8c8db6&",
       "price": 300
     },
     {
       "id": 8,
       "card": 8,
       "name": "Nick Sturniolo 8",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557557985188777984/IMG_4359.png?ex=6ac83c69&is=6ac6eae9&hm=607ce83ff681bcf0761d0d2fbd4de8ee1c1cf6752bdd3e690d8a2a547eeadc68&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557729060522557471/IMG_4359.png?ex=6ac8dbbd&is=6ac78a3d&hm=632a8a23ede4c03a43b7205ffcfe434af5315d35780e10e593d543ae5464a5d6&",
       "price": 300
     },
     {
       "id": 9,
       "card": 9,
       "name": "Nick Sturniolo 9",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557557988699414528/IMG_4360.png?ex=6ac83c6a&is=6ac6eaea&hm=eb880455bfb9c1ac5761ec4ac83250a869a9cac1e24b4b583696ef08bf88b135&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557729111479419001/IMG_4360.png?ex=6ac8dbc9&is=6ac789a&hm=92727fc58d778f0346ea418d27e0c0249f11e18af462f8465f29115cdd4b9ab9&",
       "price": 300
     },
     {
       "id": 10,
       "card": 10,
       "name": "Nick Sturniolo 10",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557557992466030622/IMG_4361.png?ex=6ac83c6b&is=6ac6eaeb&hm=336ea4784bdb3bc8444e3fb3cad72486b66a0d0118ed2c77918b4d65e3a42e99&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557729269545705605/IMG_4361.png?ex=6ac8dbef&is=6ac78a6f&hm=4f9a3b2dab6a423411762a6776b485cb195bec2e92818f06427a6dbb01708bce&",
       "price": 300
     },
     {
       "id": 11,
       "card": 11,
       "name": "Nick Sturniolo 11",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557559060939808898/IMG_4825.png?ex=6ac83d6a&is=6ac6ebea&hm=411f3da04abced396d5633227a3d9378a62a306294f0ea5f899741e2dc1ec714&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557729305566650452/IMG_4825.png?ex=6ac8dbf7&is=6ac78a77&hm=d437f8a0a9cdff0d53a3cfd83e3ab625854f7838128c92f190f3ce3833fb1670&",
       "price": 300
     },
     {
       "id": 12,
       "card": 12,
       "name": "Nick Sturniolo 12",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557559080061771806/IMG_4826.png?ex=6ac83d6e&is=6ac6ebee&hm=c078b223e155a44cef0350c5515c860232b1cdb788e157d1d4bbf7e909ae8f95&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557729463280607272/IMG_4826.png?ex=6ac8dc1d&is=6ac78a9d&hm=c5699c927fd6ad8945e22df3ed05207f9d006c830946776c9f15b2e85697c747&",
       "price": 300
     },
     {
       "id": 13,
       "card": 13,
       "name": "Nick Sturniolo 13",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557559082737475735/IMG_4827.png?ex=6ac83d6f&is=6ac6ebef&hm=ff4d66e52793e4e096b4b93e8fb79e19147dcb0b8d881a64981d40566a25e589&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557729511389405204/IMG_4827.png?ex=6ac8dc28&is=6ac78aa8&hm=1d707f3d73503f17321c534104a05e88f477a1413376cd8bf323211af4a026c7&",
       "price": 300
     },
     {
       "id": 14,
       "card": 14,
       "name": "Nick Sturniolo 14",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557559085069762580/IMG_4828.png?ex=6ac83d6f&is=6ac6ebef&hm=a89022195c30511aaa7d6d9a1465ab5728f5b887b407a6483ae08677feafbfa1&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557729721054269550/IMG_4828.png?ex=6ac8dc5a&is=6ac78ada&hm=6df89bd6db15a2f46a4952b2cc6f9e31e6698e309cb772d88b2348ae8abbac3a&",
       "price": 300
     },
     {
       "id": 15,
       "card": 15,
       "name": "Nick Sturniolo 15",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557559087628165200/IMG_4829.png?ex=6ac83d70&is=6ac6ebf0&hm=641d648502326a0b8839c3429e1009f94fd673b9f6446a07fe4871ee828df2d3&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557729765882859530/IMG_4829.png?ex=6ac8dc65&is=6ac78ae5&hm=5e0e4210ce428aee3a76819503f59872f7c6a3ba5a874f558116ac3949358165&",
       "price": 300
     },
     {
       "id": 16,
       "card": 16,
       "name": "Nick Sturniolo 16",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557559090656448512/IMG_4830.png?ex=6ac83d71&is=6ac6ebf1&hm=5e5018c299e0d18bdab8f3f7bea5c35963451853bb5842337ece6e617590ec5f&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557729910116720720/IMG_4830.png?ex=6ac8dc87&is=6ac78b07&hm=87c6747135478d2d53b8bedbd1de23b6a12646ec13d9aa2a590af604e243290a&",
       "price": 300
     },
     {
       "id": 17,
       "card": 17,
       "name": "Nick Sturniolo 17",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557559095731421204/IMG_4831.png?ex=6ac83d72&is=6ac6ebf2&hm=f3d934707ca999807050f24428ca5d5ed5d402196f71951094db8c2482f60bf",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557729954613960765/IMG_4831.png?ex=6ac8dc92&is=6ac78b12&hm=914b1076c9fcd01a3cc13181719e95b0927ac12b07f5166c9ffd56afa008b3d0&",
       "price": 300
     },
     {
       "id": 18,
       "card": 18,
       "name": "Nick Sturniolo 18",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557559099116224592/IMG_4832.png?ex=6ac83d73&is=6ac6ebf3&hm=a62b2cc1653b11284928ace34e5eaffc1336fbfc93a48609180a44e891a29ae0&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557730251138670593/IMG_4832.png?ex=6ac8dcd9&is=6ac78b59&hm=59bd19321a9eaa2e2a43d5917e2632b864db02507c10c120bedf525264923868&",
       "price": 300
     },
     {
       "id": 19,
       "card": 19,
       "name": "Nick Sturniolo 19",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557559102752686190/IMG_4833.png?ex=6ac83d74&is=6ac6ebf4&hm=de2e05feea4f17987acca71d85b48c37cdd775537aab2293ed0d17216195fe7b&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557730313080414259/IMG_4833.png?ex=6ac8dce7&is=6ac78b67&hm=8eb6c5ba0c68bb60a11922282e3a108a5d3d441ec3e4dc527ec0e2f8dbc5cbdf&",
       "price": 300
     },
     {
       "id": 20,
       "card": 20,
       "name": "Nick Sturniolo 20",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557559107014099014/IMG_4834.png?ex=6ac83d75&is=6ac6ebf5&hm=49595f99b7517eb0ccbae06457485ab5c2e92beed5329f8dbeaf539824ff6032&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557730568622309536/IMG_4834.png?ex=6ac8dd24&is=6ac78ba4&hm=4e26d22d00d6a91654312dec04d5eec63d697afbfc7a7ba09bbaa7fa59c47cbd&",
       "price": 300
     },
     {
       "id": 21,
       "card": 21,
       "name": "Nick Sturniolo 21",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557559111632289852/IMG_4836.png?ex=6ac83d76&is=6ac6ebf6&hm=dfac5737a765b035d2bfc7095abe2b4aad86cde40db5dab7f7767006e9706707&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557730634191999077/IMG_4836.png?ex=6ac8dd34&is=6ac78bb4&hm=0938c91e52a5e4c192302e88d8a929663601209765bb0e62682338b4c9657d4c&",
       "price": 300
     },
     {
       "id": 22,
       "card": 22,
       "name": "Nick Sturniolo 22",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557559115042132040/IMG_4837.png?ex=6ac83d77&is=6ac6ebf7&hm=5f134ec3acb3a49595f291c2208b0fe94a3c8e6ce2b521369eaf0cb1f7a3cdee&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557731100065792040/IMG_4837.png?ex=6ac8dda3&is=6ac78c23&hm=74efc573f0b2c78c35affabb0cb0aaab9fec65af570bec95c8e192669e3fc41d&",
       "price": 300
     },
     {
       "id": 23,
       "card": 23,
       "name": "Nick Sturniolo 23",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557559117868966058/IMG_4838.png?ex=6ac83d77&is=6ac6ebf7&hm=2fe28f668cad280851874a486f9c1afe8bac9d1bc2c40aa2e317193f7fe781d5&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557731173021782046/IMG_4838.png?ex=6ac8ddb4&is=6ac78c34&hm=f42577c735ab6c9bb40492aab95d1c8114d16b8b62be1a71255224e70d60b6ea&",
       "price": 300
     },
     {
       "id": 24,
       "card": 24,
       "name": "Nick Sturniolo 24",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557559122646274098/IMG_4839.png?ex=6ac83d78&is=6ac6ebf8&hm=28b04d65220279e1e2ac3510f20321966b72b30a99fa69e1b12565ff815b94a",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557731399006691398/IMG_4839.png?ex=6ac8ddea&is=6ac78c6a&hm=271e3315848920cef5f89dc0520f6f5cf8913731083369e46e76ae4eb6576f89&",
       "price": 300
     },
     {
       "id": 25,
       "card": 25,
       "name": "Nick Sturniolo 25",
-      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557560215199547412/IMG_4868.png?ex=6ac83e7d&is=6ac6ecfd&hm=a4c5eacf6acf662f176fc0ec4416c3504e86ed004ea0ab1253d7f31bab7c4098&",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557731658298302464/IMG_4868.png?ex=6ac8de28&is=6ac78ca8&hm=b92a518d63416f35db02887b97943dbe2c0885e8b50d5bb2fa4fb22179829590&",
       "price": 300
     }
-  }
+  ],
+  "heart": [
+    {
+      "id": 1,
+      "card": 1,
+      "name": "Nick Sturniolo 1",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557808345736286218/IMG_5104.png?ex=6ac92594&is=6ac7d414&hm=2ce9618e49fcc8f2bc21bc5a42cf36682db4448c0d927ab75fe51511d811515f&",
+      "price": 500
+    },
+    {
+      "id": 2,
+      "card": 2,
+      "name": "Nick Sturniolo 2",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557808369413394493/IMG_5105.png?ex=6ac92599&is=6ac7d419&hm=e10801141b245f56ba4332f8d2f3e518a9a24f9b09853532d58da56fb2626501&",
+      "price": 500
+    },
+    {
+      "id": 3,
+      "card": 3,
+      "name": "Nick Sturniolo 3",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557808585713385623/IMG_5106.png?ex=6ac925cd&is=6ac7d44d&hm=c698b185afc5798fb134a3c0bfe8382611f3076e588794210109f9b220d2a945&",
+      "price": 500
+    },
+    {
+      "id": 4,
+      "card": 4,
+      "name": "Nick Sturniolo 4",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557808611432996874/IMG_5107.png?ex=6ac925d3&is=6ac7d453&hm=22045c379bc3aa56b573d0366c77178de228f82ffff840b420a4b5564d6a1ec0&",
+      "price": 500
+    },
+    {
+      "id": 5,
+      "card": 5,
+      "name": "Nick Sturniolo 5",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557808747068530748/IMG_5108.png?ex=6ac925f3&is=6ac7d473&hm=9e0ae7bb17d3aaa4fce423ec88e415e4eea815849cb40c43e7378ef8849e6c1b&",
+      "price": 500
+    },
+    {
+      "id": 6,
+      "card": 6,
+      "name": "Nick Sturniolo 6",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557808779687624734/IMG_5109.png?ex=6ac925fb&is=6ac7d47b&hm=1ed7ff45ecddb6b3aac8d44e87f7ff7704427760ef80029699dd6d6a6a653408&",
+      "price": 500
+    },
+    {
+      "id": 7,
+      "card": 7,
+      "name": "Nick Sturniolo 7",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557808807499927672/IMG_5110.png?ex=6ac92602&is=6ac7d482&hm=0d31b4dd12f6a1a3a9aa2d0344cca21e653b973cfadd7197e0983f512b74630c&",
+      "price": 500
+    },
+    {
+      "id": 8,
+      "card": 8,
+      "name": "Nick Sturniolo 8",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557808991587930163/IMG_5111.png?ex=6ac9262e&is=6ac7d4ae&hm=0405451515e1f17ef3bad450d2af8cc7ba66d5549c3b8154b9718b8170fc6b57&",
+      "price": 500
+    },
+    {
+      "id": 9,
+      "card": 9,
+      "name": "Nick Sturniolo 9",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557809028485218395/IMG_5112.png?ex=6ac92637&is=6ac7d4b7&hm=57edef7f2b1292960010629c030c736708b1aa70268f61f6bcbfceef17eafba4&",
+      "price": 500
+    },
+    {
+      "id": 10,
+      "card": 10,
+      "name": "Nick Sturniolo 10",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557809061779480617/IMG_5113.png?ex=6ac9263f&is=6ac7d4bf&hm=a1493a020d4416e2f08eba25dcde08b8f9cd23254be9cbe06d9cd4c17b7036d3&",
+      "price": 500
+    },
+    {
+      "id": 11,
+      "card": 11,
+      "name": "Nick Sturniolo 11",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557809224564867072/IMG_5114.png?ex=6ac92665&is=6ac7d4e5&hm=fc55bc6f4ae237eecc3815f6c9c80238d4718faa156df2b74339854fa3625e6b&",
+      "price": 500
+    },
+    {
+      "id": 12,
+      "card": 12,
+      "name": "Nick Sturniolo 12",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557809261231472822/IMG_5115.png?ex=6ac9266e&is=6ac7d4ee&hm=0acc0f4aa157e8d4ec20764ef237aa292c26eb635400a54facdc01b575ccd530&",
+      "price": 500
+    },
+    {
+      "id": 13,
+      "card": 13,
+      "name": "Nick Sturniolo 13",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557809400117203034/IMG_5116.png?ex=6ac9268f&is=6ac7d50f&hm=395030c61aed198215fb8e73cbb2dd3d3c7332539634a5212a9eaa590987d1b8&",
+      "price": 500
+    },
+    {
+      "id": 14,
+      "card": 14,
+      "name": "Nick Sturniolo 14",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557809432077930597/IMG_5117.png?ex=6ac92697&is=6ac7d517&hm=a3fe77e07e9c96bfd7a5ecd284ad08f11301ded3dcf984f69b85bc2c3393d39f&",
+      "price": 500
+    },
+    {
+      "id": 15,
+      "card": 15,
+      "name": "Nick Sturniolo 15",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557809467263942768/IMG_5118.png?ex=6ac9269f&is=6ac7d51f&hm=e0da6e2a2c675a3c1a52b3cbab7924d1b201b8b65072d0157865e94569ef464f&",
+      "price": 500
+    },
+    {
+      "id": 16,
+      "card": 16,
+      "name": "Nick Sturniolo 16",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557809735049281627/IMG_5119.png?ex=6ac926df&is=6ac7d55f&hm=365b6ca143bec02740f3d3d5daf8d64316bbf94309f51c88ac754dc2f9adaa8b&",
+      "price": 500
+    },
+    {
+      "id": 17,
+      "card": 17,
+      "name": "Nick Sturniolo 17",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557809773506863236/IMG_5120.png?ex=6ac926e8&is=6ac7d568&hm=265d70a0a515e7c9e95ab7348b5cd269166aa4f91c542bdabe3f396ab4c5cb82&",
+      "price": 500
+    },
+    {
+      "id": 18,
+      "card": 18,
+      "name": "Nick Sturniolo 18",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557809816397938810/IMG_5121.png?ex=6ac926f2&is=6ac7d572&hm=b0f955288c34780a0511fe7bdc733305baba327d3b8e37d73ac238bc5d9c2afc&",
+      "price": 500
+    },
+    {
+      "id": 19,
+      "card": 19,
+      "name": "Nick Sturniolo 19",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557810040755458068/IMG_5122.png?ex=6ac92728&is=6ac7d5a8&hm=d54e91c3dbd56413b561edab8326ddf7c5778a12fc833a2c766dab5480e599a4&",
+      "price": 500
+    },
+    {
+      "id": 20,
+      "card": 20,
+      "name": "Nick Sturniolo 20",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557810080492294154/IMG_5123.png?ex=6ac92731&is=6ac7d5b1&hm=f45d31b762864aeb51b7b62cce8f985058893b8337957d2f30052d5a1ad2178d&",
+      "price": 500
+    },
+    {
+      "id": 21,
+      "card": 21,
+      "name": "Nick Sturniolo 21",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557810219411710042/IMG_5124.png?ex=6ac92753&is=6ac7d5d3&hm=f414cbbc10914499b90b64f5410c2f100689281a15f592cd0e56b680303ad585&",
+      "price": 500
+    },
+    {
+      "id": 22,
+      "card": 22,
+      "name": "Nick Sturniolo 22",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557810255772127403/IMG_5125.png?ex=6ac9275b&is=6ac7d5db&hm=34caff92801392615591ba8533a9c9d09f2af0cb27bd1abc14722e7c72bffb72&",
+      "price": 500
+    },
+    {
+      "id": 23,
+      "card": 23,
+      "name": "Nick Sturniolo 23",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557810422177079406/IMG_5126.png?ex=6ac92783&is=6ac7d603&hm=ff5089a96e1d722cf13d1b08f15867fef68e03205c650362abb367b1abf8daaf&",
+      "price": 500
+    },
+    {
+      "id": 24,
+      "card": 24,
+      "name": "Nick Sturniolo 24",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557810461729226914/IMG_5127.png?ex=6ac9278c&is=6ac7d60c&hm=29bc27b09a58739bd4deb713ec634d8b57dd1b34043f7bb7f81945fa98421192&",
+      "price": 500
+    },
+    {
+      "id": 25,
+      "card": 25,
+      "name": "Nick Sturniolo 25",
+      "image": "https://cdn.discordapp.com/attachments/1556029740240863347/1557810502187491388/IMG_5128.png?ex=6ac92796&is=6ac7d616&hm=e4b20e99882be3c896b81cd66262cd4cc904342dd520a6174db63b63f9025529&",
+      "price": 500
+    }
+  ]
 }
